@@ -1,0 +1,22 @@
+Vivado Simulator 2020.1
+Time resolution is 1 ps
+Starting Simulation...
+Time=0 | Op=0110011 | ALUControl=0010 | RegW=1 | ALUSrc=0
+Time=10000 | Op=0110011 | ALUControl=0110 | RegW=1 | ALUSrc=0
+Time=20000 | Op=0010011 | ALUControl=0010 | RegW=1 | ALUSrc=1
+Time=30000 | Op=0000011 | ALUControl=0010 | RegW=1 | ALUSrc=1
+Time=40000 | Op=0100011 | ALUControl=0010 | RegW=0 | ALUSrc=1
+Time=50000 | Op=1100011 | ALUControl=0110 | RegW=0 | ALUSrc=0
+Time=60000 | Op=0110011 | ALUControl=0011 | RegW=1 | ALUSrc=0
+Simulation Finished.
+$finish called at time : 70 ns : File "D:/Downloads/CAlab5/CAlab5.srcs/sim_1/new/tb_Control_Unit.v" Line 75
+Starting Simulation...
+Time=0 | Op=0110011 | ALUControl=0010 | RegW=1 | ALUSrc=0
+Time=10000 | Op=0110011 | ALUControl=0110 | RegW=1 | ALUSrc=0
+Time=20000 | Op=0010011 | ALUControl=0010 | RegW=1 | ALUSrc=1
+Time=30000 | Op=0000011 | ALUControl=0010 | RegW=1 | ALUSrc=1
+Time=40000 | Op=0100011 | ALUControl=0010 | RegW=0 | ALUSrc=1
+Time=50000 | Op=1100011 | ALUControl=0110 | RegW=0 | ALUSrc=0
+Time=60000 | Op=0110011 | ALUControl=0011 | RegW=1 | ALUSrc=0
+Simulation Finished.
+$finish called at time : 70 ns : File "D:/Downloads/CAlab5/CAlab5.srcs/sim_1/new/tb_Control_Unit.v" Line 75

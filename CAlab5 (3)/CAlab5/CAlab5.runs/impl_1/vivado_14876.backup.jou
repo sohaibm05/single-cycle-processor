@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2020.1 (64-bit)
+# SW Build 2902540 on Wed May 27 19:54:49 MDT 2020
+# IP Build 2902112 on Wed May 27 22:43:36 MDT 2020
+# Start of session at: Tue Mar 10 14:04:54 2026
+# Process ID: 14876
+# Current directory: D:/Downloads/CAlab5/CAlab5.runs/impl_1
+# Command line: vivado.exe -log Top_ControlPath.vdi -applog -product Vivado -messageDb vivado.pb -mode batch -source Top_ControlPath.tcl -notrace
+# Log file: D:/Downloads/CAlab5/CAlab5.runs/impl_1/Top_ControlPath.vdi
+# Journal file: D:/Downloads/CAlab5/CAlab5.runs/impl_1\vivado.jou
+#-----------------------------------------------------------
+source Top_ControlPath.tcl -notrace
